@@ -1,0 +1,22 @@
+{
+  "name": "fake-nitro",
+  "version": "1.0.0",
+  "description": "Fake discord nitro for Discord to troll your friends. Rickrolled!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u0f/Fake-nitro.git"
+  },
+  "author": "u0f",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u0f/Fake-nitro/issues"
+  },
+  "homepage": "https://github.com/u0f/Fake-nitro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
