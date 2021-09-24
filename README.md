@@ -7,6 +7,7 @@ This is a fake discord web to troll your friends and RickRoll them. :P
 - How it works: This project is a server web, configured it for simulate discord nitro message embed for troll your friends *Never gonna give yo up...*
 
 ![cap](https://whoasked.lol/i/90d57efe.png)
+
 **NOTE: The "nitro code" can be any you want**
 
 - Clone the repo: 
